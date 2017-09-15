@@ -38,5 +38,5 @@ Data_table = [
 	["22","MK DiBoux","Small Forward",[11,0,23,17,0]],
 ]
 
- p Data_table[3][2]
+p Data_table[3][2]
 p Data_table[1][3]
